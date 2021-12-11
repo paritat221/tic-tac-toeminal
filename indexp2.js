@@ -1,4 +1,4 @@
-const term = require('./term-2d');
+const term = require('term-2d');
 const locate = term.locate;
 const fetch = require('node-fetch');
 const session = {code:"0x1",player:2};
