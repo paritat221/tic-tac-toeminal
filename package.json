@@ -1,0 +1,14 @@
+{
+  "name": "term-2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "term-2d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
